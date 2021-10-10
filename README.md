@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PrabuddhaMadhushan
 - 👀 I’m interested in web development and coding
 - 🌱 I’m currently learning in university
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - prabuddhamadhushan6@gmail.com
 
 <!---
